@@ -1,0 +1,11 @@
+{ data: 'code' },
+        { data: 'name' },
+        { data: 'price' },
+        { data: 'price_B' },
+        { data: 'uniform_leotard' },
+        { data: 'uniform_stocking' },
+        { data: 'uniform_skirt' },
+        { data: 'uniform_shoes' },
+        { data: 'uniform_character_skirt' },
+        { data: 'uniform_character_shoes' },
+        { data: 'step_number' }
